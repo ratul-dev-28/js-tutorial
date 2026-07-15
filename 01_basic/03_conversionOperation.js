@@ -37,3 +37,28 @@ console.log(age)
 let ageInString = String(age)
 console.log(typeof ageInString)
 console.log(ageInString)
+
+
+
+
+
+// ==================== MATH Operation ========================
+
+// console.log(5 + 3)   // addition
+// console.log(5 - 3)   // subtraction
+// console.log(5 * 3)   // multiplication
+// console.log(5 / 3)   // division
+// console.log(5 ** 3)  // exponent
+// console.log(5 % 3)   // remainder
+
+// console.log("Hello " + "world")   // concatination
+
+// prefix, postfix
+// let x = 10;
+// let a = x++;
+// let b = ++x;
+// let c = --x;
+// let d = x++;
+
+// console.table([a , b , c , d]);
+
